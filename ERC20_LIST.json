@@ -6644,6 +6644,14 @@
         "useInSwap": false,
         "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-token-list/main/src/assets/tokens/angle-icon-colorback-black500.png"
       }
-    }
-  }
-]
+    },
+    "0xA7c167f58833c5e25848837f45A1372491A535eD": {
+      "address": "0x6379219890843c0b9E3160044de072ced66baab2",
+      "name": "ThreatSlayerAI Token",
+      "decimals": 18,
+      "symbol": "SLAYER",
+      "hasPermit": false,
+      "useInSwap": false,
+      "logoURI": "https://raw.githubusercontent.com/AngleProtocol/angle-token-list/main/src/assets/tokens/slayer.png"}
+  }   
+    ]
